@@ -1,4 +1,4 @@
 # QuizApp
 
-Quiz App is mini quiz application made in Flutter.  I made it for fun and for exercising my programming skills. 
+The Quiz App is a mini mobile quiz application developed in Flutter. I created it for fun and to practice my programming skills
 
